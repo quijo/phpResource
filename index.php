@@ -1,5 +1,7 @@
 <?php
-
+//toturial from envato tuts+
+include('chapter1/lesson1.php');
+include('chapter1/lesson2.php');
 
 /*######## INTRODUCTION ##########*/
 //echo ' <h1> hello world  </h1>';
